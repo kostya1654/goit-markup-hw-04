@@ -175,6 +175,7 @@ footer span {
 
   background-image: linear-gradient(rgba(47, 48, 58, 0.4), rgba(47, 48, 58, 0.4)),
     url(../images/hero-bg.jpg);
+
   background-repeat: no-repeat;
   background-size: cover;
   background-position: center;
@@ -515,7 +516,6 @@ footer span {
   font-size: 14px;
   line-height: 1.14;
   letter-spacing: 0.03em;
-  text-align: center;
 
   color: #ffffff;
 
