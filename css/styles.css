@@ -171,6 +171,8 @@ footer span {
   background-color: #2f303a;
   padding-top: 200px;
   padding-bottom: 200px;
+  margin-right: auto;
+  margin-left: auto;
   text-align: center;
   justify-content: center;
   align-items: center;
